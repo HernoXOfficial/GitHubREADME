@@ -3,5 +3,5 @@
 Polish Translator | HTML5 Developer
 I Translated Discord Bot Like:
 
-<img src="logo.png"> [MEE6](https://mee6.xyz/) 
-<img src="tempgg.png"> [DiscordTemplates](https://temp.gg/)# GitHubREADME
+[MEE6](https://mee6.xyz/) 
+[DiscordTemplates](https://temp.gg/)# GitHubREADME
